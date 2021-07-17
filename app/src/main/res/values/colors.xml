@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fdc710</color>
+    <color name="colorPrimaryDark">#F39318</color>
+    <color name="colorAccent">#263dea</color>
+
+    <color name="gray">#A0FA07</color>
+    <color name="iconcolor">#fdc710</color>
+    <color name="silver">#E9F4A0</color>
+    <color name="lightgray">#68CD03</color>
+    <color name="lightblack">#90E305</color>
+
+</resources>

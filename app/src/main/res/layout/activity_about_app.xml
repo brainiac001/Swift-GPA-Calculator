@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/silver"
+    android:padding="@dimen/_10sdp"
+    android:layout_height="match_parent"
+    tools:context=".AboutApp">
+<TextView
+    android:layout_width="wrap_content"
+    android:gravity="center"
+    android:autoLink="email"
+    android:text="Swift GPA Calculator is an Customised Calculator designed to help students with a swifter and more efficient way of calculating their GPA \nVerion: 1.1 \nDesigned by Damilare Joshua\nContact me @: oluwadamilareidowujoshua@gmail.com"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    android:textColor="#000"
+    android:textSize="@dimen/_14ssp"
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintBottom_toBottomOf="parent"
+    android:layout_height="wrap_content">
+
+</TextView>
+</androidx.constraintlayout.widget.ConstraintLayout>

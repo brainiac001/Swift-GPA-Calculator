@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Swift GPA Calculator</string>
+
+    <string-array name="credit_array">
+        <item>0 Credit</item>
+        <item>1 Credit</item>
+        <item>2 Credits</item>
+        <item>3 Credits</item>
+        <item>4 Credits</item>
+
+    </string-array>
+
+    <string-array name="grade_array">
+        <item>Grade</item>
+        <item>A (70-100) </item>
+        <item>B (60-69) </item>
+        <item>C (50-59) </item>
+        <item>D (45-49) </item>
+        <item>E (40-44) </item>
+        <item>F (0-39) </item>
+    </string-array>
+    <string name="help">
+        In order to use this calculator you must input correct values of your result, like course codes, course credits and your grade. To save your GPA click the save button and your score would be saved to your phone gallary in a picture format.
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
